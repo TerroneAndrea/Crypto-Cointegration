@@ -1,9 +1,14 @@
 # Crypto-Cointegration
 
-# Required libraries
+## Required libraries
 Pandas
+
 numpy
+
 statsmodels
+
 yfinance
+
 seaborn
+
 matplotlib
