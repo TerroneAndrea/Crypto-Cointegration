@@ -1,6 +1,6 @@
 # Crypto-Cointegration
 
-Download and run the file.
+Download the release and run the file.
 
 ## Required libraries
 Pandas
